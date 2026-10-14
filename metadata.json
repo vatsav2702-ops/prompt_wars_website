@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS - AI Personal Co-Pilot & Schedule Engine",
+  "description": "Autonomous schedule optimizer, weekly wellness telemetry analyzer, location task trigger, and AI communication screener for students and professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
